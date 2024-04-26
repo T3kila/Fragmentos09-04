@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MolinaMedinaFragmentos</string>
+    <string name="saludo_primer_fragmento">primer fragmento</string>
+    <string name="saludo_segundo_fragmento">segundo Fragmentos</string>
+    <string name="saludo_tercer_fragmento">tercer Fragmentos</string>
+    <string name="saludo_cuarto_fragmento">cuarto Fragmentos</string>
+    <string name="item_primer_fragmento">Fragmento 1</string>
+    <string name="item_segundo_fragmento">Fragmento 2</string>
+    <string name="item_tercer_fragmento">Fragmento 3</string>
+    <string name="item_cuarto_fragmento">Fragmento 4</string>
+</resources>
